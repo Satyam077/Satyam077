@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Satyam077
+- 👋 Hi, I’m @Chandan
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python language
 - 
