@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chandan
-- 👀 I’m interested in Java Full Stack Development
+- 👀 I’m interested in Dot Net Full Stack Development
 - 🌱 I’m currently learning Angular Framework
 - 💞️ I’m looking to collaborate on Backend Development
 
