@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chandan
 - 👀 I’m interested in Dot Net Full Stack Development
-- 🌱 I’m currently learning Angular Framework and MAUI MOBILE APPLICATION DEVELOPMENT
-- 💞️ I’m looking to collaborate on Backend Development and MAUI Cross Paltform App
+- 🌱 My Tech Stacks are  ASP Dot Net, Angular CLI, MS SQL Server, MAUI Cross Platform Mobile Application, Azure, Git
+- 💞️ I’m looking to collaborate on Dot Net Development and Angular CLI
 
 
 <!---
