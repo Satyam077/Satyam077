@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @Chandan
-- 👀 I’m interested in Dot Net Full Stack Development
-- 🌱 My Tech Stacks are  ASP Dot Net, Angular CLI, MS SQL Server, MAUI Cross Platform Mobile Application, Azure, Git
-- 💞️ I’m looking to collaborate on Dot Net Development and Angular CLI
+# 👋 Hi, I'm Chandan!
 
+### Passionate .NET Full-Stack Developer | Angular | SQL Server | Azure
 
-<!---
-Satyam077/Satyam077 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!  
+I’m a developer who enjoys building scalable web applications, secure APIs, and modern front-end experiences.  
+I love learning new technologies and contributing to real-world projects.
+
+---
+
+## 👀 About Me  
+- 🔭 I’m interested in **.NET Full Stack Development**  
+- 🌱 My current tech stack includes:  
+  - **ASP.NET Core** (Web API, MVC, Blazor)  
+  - **Angular CLI**  
+  - **MS SQL Server**  
+  - **.NET MAUI** (Cross-Platform Mobile Apps)  
+  - **Azure Cloud Services**  
+  - **Git & GitHub**
+
+---
+
+## 💞️ Collaboration  
+I’m open to collaborating on:  
+- Full-stack **.NET Projects**  
+- **Angular** front-end applications  
+- Web API development  
+- Database-driven applications  
+- Mobile apps using **.NET MAUI**
+
+---
+
+## 📫 How to Reach Me  
+Feel free to connect with me for project discussions or collaboration opportunities.
+
+---
+
+Thanks for visiting my profile! 😊  
+⭐ **If you like my work, consider giving a star to my repositories!**
+
