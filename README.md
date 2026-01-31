@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Chandan!
 
-### Passionate .NET Full-Stack Developer | Angular | SQL Server | Azure
+### Passionate .NET Full-Stack Developer | Angular | SQL Server | Mongo DB | Postgres SQL | Azure Devops
 
 Welcome to my GitHub profile!  
 I’m a developer who enjoys building scalable web applications, secure APIs, and modern front-end experiences.  
 I love learning new technologies and contributing to real-world projects.
 
 ---
+Personal Projects :-
+Rentora PMS : https://rentora-ui.netlify.app
+Rail Blazor : https://rail-blazor.runasp.net
 
 ## 👀 About Me  
 - 🔭 I’m interested in **.NET Full Stack Development**  
