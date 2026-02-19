@@ -36,7 +36,7 @@ I’m open to collaborating on:
 
 ## 📫 How to Reach Me  
 Feel free to connect with me for project discussions or collaboration opportunities.
-
+Email: uniquextech@zohomail.in
 ---
 
 Thanks for visiting my profile! 😊  
