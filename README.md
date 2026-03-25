@@ -8,7 +8,7 @@ I love learning new technologies and contributing to real-world projects.
 
 ---
 Personal Projects :-
-Uniquex Tech Media : https://uniquextechnologies.netlify.app
+Uniquex Technologies : https://uniquextechnologies.com
 Rentora PMS : https://rentora-ui.netlify.app
 Rail Blazor : https://rail-blazor.runasp.net
 
