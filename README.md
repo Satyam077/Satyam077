@@ -8,7 +8,6 @@ I love learning new technologies and contributing to real-world projects.
 
 ---
 Personal Projects :-
-Uniquex Technologies : https://uniquextechnologies.com
 Rentora PMS : https://rentora-ui.netlify.app
 Rail Blazor : https://rail-blazor.runasp.net
 
@@ -16,8 +15,9 @@ Rail Blazor : https://rail-blazor.runasp.net
 - 🔭 I’m interested in **.NET Full Stack Development**  
 - 🌱 My current tech stack includes:  
   - **ASP.NET Core** (Web API, MVC, Blazor)  
-  - **Angular CLI**  
-  - **MS SQL Server**  
+  - **Angular**  
+  - **MS SQL Server**
+  - **PostgreSQL**
   - **.NET MAUI** (Cross-Platform Mobile Apps)  
   - **Azure Cloud Services**  
   - **Git & GitHub**
@@ -36,7 +36,7 @@ I’m open to collaborating on:
 
 ## 📫 How to Reach Me  
 Feel free to connect with me for project discussions or collaboration opportunities.
-Email: uniquextech@zohomail.in
+Email: ck439105@gmail.com
 ---
 
 Thanks for visiting my profile! 😊  
